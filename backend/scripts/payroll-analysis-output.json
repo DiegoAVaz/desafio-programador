@@ -1,0 +1,264 @@
+{
+  "analyzedAt": "2026-08-17T19:02:41.456Z",
+  "results": [
+    {
+      "file": "payroll-01.pdf",
+      "fileSizeBytes": 139486,
+      "pages": 5,
+      "textLength": 19278,
+      "lineCount": 389,
+      "scannedAnalysis": {
+        "verdict": "text_layer",
+        "hasFont": true,
+        "hasTextOps": true,
+        "hasImage": true,
+        "charsPerPage": 3856,
+        "reason": []
+      },
+      "competenceHits": [
+        {
+          "pattern": "MM/YYYY",
+          "match": "03/2026",
+          "groups": [
+            "03",
+            "2026"
+          ]
+        },
+        {
+          "pattern": "MM/YYYY",
+          "match": "03/2026",
+          "groups": [
+            "03",
+            "2026"
+          ]
+        },
+        {
+          "pattern": "MM/YYYY",
+          "match": "03/2026",
+          "groups": [
+            "03",
+            "2026"
+          ]
+        },
+        {
+          "pattern": "MM/YYYY",
+          "match": "03/2026",
+          "groups": [
+            "03",
+            "2026"
+          ]
+        },
+        {
+          "pattern": "MM/YYYY",
+          "match": "03/2026",
+          "groups": [
+            "03",
+            "2026"
+          ]
+        },
+        {
+          "pattern": "MM/YYYY",
+          "match": "03/2026",
+          "groups": [
+            "03",
+            "2026"
+          ]
+        },
+        {
+          "pattern": "YYYY-MM",
+          "match": "2017/04",
+          "groups": [
+            "2017",
+            "04"
+          ]
+        },
+        {
+          "pattern": "YYYY-MM",
+          "match": "2025/03",
+          "groups": [
+            "2025",
+            "03"
+          ]
+        }
+      ],
+      "sectionMarkers": [
+        {
+          "keyword": "fgts",
+          "index": 272
+        },
+        {
+          "keyword": "descontos",
+          "index": 475
+        }
+      ],
+      "sampleHeaders": [
+        "TOTALDESCONTOS228,10VALORDOIRFARECOLHER0,00",
+        "TOTALDESCONTOS1.148,15",
+        "TOTALDESCONTOS1.361,94",
+        "TOTALDESCONTOS1.365,03",
+        "TOTALDESCONTOS1.415,35",
+        "TOTALDESCONTOS1.388,09"
+      ],
+      "sampleFieldLines": [
+        "TOT.RENDIMENTOS2.116,97613Smart 500 QC0215,10VALORDOIRFARECOLHER0,00",
+        "613Smart 500 QC0215,13",
+        "613Smart 500 QC0215,13",
+        "613Smart 500 QC0208,47VALORDOIRFARECOLHER0,00",
+        "TOT.RENDIMENTOS4.984,78613Smart 500 QC0208,47",
+        "102Hr Ext Diu  60%30,15446,75613Smart 500 QC0208,47VALORDOIRFARECOLHER0,00",
+        "154Hr Supl Ext Not0,493,51613Smart 500 QC0208,47",
+        "613Smart 500 QC0208,47VALORDOIRFARECOLHER0,00",
+        "613Smart 500 QC0208,47",
+        "104Hr Ext Diu  80%9,33155,60613Smart 500 QC0208,47VALORDOIRFARECOLHER0,00",
+        "104Hr Ext Diu  80%8,05134,19613Smart 500 QC0233,49VALORDOIRFARECOLHER0,00",
+        "104Hr Ext Diu  80%14,95249,21613Smart 500 QC0155,66VALORDOIRFARECOLHER0,00"
+      ],
+      "sampleBaseLines": [
+        "40Reembolso VR0,00360,00499Vale Ref Func036,00BASEDECALCULODOFGTS1.260,65",
+        "91Hr Adic Pericul146,67290,92511INSS Normal0100,85VALORDOFGTS100,85",
+        "TOTALDESCONTOS228,10VALORDOIRFARECOLHER0,00",
+        "37DSR Adicional19,2328,03491Seguro Vida Fun02,40BASEDECALCULODOFGTS2.064,79",
+        "91Hr Adic Pericul220,00436,38499Vale Ref Func2266,00VALORDOFGTS165,18",
+        "TOTALDESCONTOS1.148,15",
+        "37DSR Adicional25,0045,20491Seguro Vida Fun02,40BASEDECALCULODOFGTS2.116,97",
+        "91Hr Adic Pericul220,00436,38499Vale Ref Func2060,00VALORDOFGTS169,35",
+        "TOTALDESCONTOS1.361,94",
+        "37DSR Adicional20,8328,85404Adt Norm Desc0756,39BASEDECALCULODOFGTS2.052,44",
+        "91Hr Adic Pericul220,00436,38491Seguro Vida Fun02,40VALORDOFGTS164,19",
+        "TOTALDESCONTOS1.365,03"
+      ],
+      "allFieldCount": 22,
+      "allBaseCount": 76,
+      "textPreview": "\n\n09/03/2026\nEMPREGADO:\nDATADEADMISSÃO:11/04/17\nFolha Normal\nMês:abr-17\nREMUNERAÇÃOMES969,73290VA Funcionario030,67BASEDECALCULODOINSS1.260,65\nDIAS/HORASTRAB146,67491Seguro Vida Fun02,40BASEDECALCULODOIRF780,62\n40Reembolso VR0,00360,00499Vale Ref Func036,00BASEDECALCULODOFGTS1.260,65\n91Hr Adic Pericul146,67290,92511INSS Normal0100,85VALORDOFGTS100,85\nTOT.RENDIMENTOS1.620,65561IRF Normal00,00SALARIOLIQUIDONOMES1.392,55\n820Vale Transp Fun058,18VALORDOIRFARECOLHER0,00\nTOTALDESCONTOS228,10VALORDOIRFARECOLHER0,00\nFolha Normal\nMês:mai-17\nREMUNERAÇÃOMES1.454,59290VA Funcionario046,00BASEDECALCULODOINSS2.064,79\nDIAS/HORASTRAB220,00404Adt Norm Desc0756,39BASEDECALCULODOIRF1.499,78\n37DSR Adicional19,2328,03491Seguro Vida Fun02,40BASEDECALCULODOFGTS2.064,79\n91Hr Adic Pericul220,00436,38499Vale Ref Func2266,00VALORDOFGTS165,18\n102Hr Ext Diu  60%8,48116,66511INSS Normal0185,83SALARIOLIQUIDONOMES916,64\n104Hr Ext Diu  80%1,8829,13561IRF Normal00,00VALORDOIRFARECOLHER0,00\nTOT.RENDIMENTOS2.064,79684Vale Gas04,25VALORDOIRFARECOLHER0,00\n820Vale Transp Fun087,28\nTOTALDESCONTOS1.148,15\nFolha Normal\nMês:jun-17\nREMUNERAÇÃOMES1.454,59290VA Funcionario046,00BASEDECALCULODOINSS2.116,97\nDIAS/HORASTRAB220,00404Adt Norm Desc0756,39BASEDECALCULODOIRF1.547,27\n37DSR Adicional25,0045,20491Seguro Vida Fun02,40BASEDECALCULODOFGTS2.116,97\n91Hr Adic Pericul220,00436,38499Vale Ref Func2060,00VALORDOFGTS169,35\n102Hr Ext Diu  60%11,37156,31511INSS Normal0190,52SALARIOLIQUIDONOMES755,03\n104Hr Ext Diu  80%1,5824,4956",
+      "textTail": "66\n684Vale Gas04,48\n820Vale Transp Fun3897,46\nTOTALDESCONTOS2.069,68\nFolha Normal\nMês:mar-19\nREMUNERAÇÃOMES1.624,30290VA Funcionario050,00BASEDECALCULODOINSS2.460,70\nDIAS/HORASTRAB220,00404Adt Norm Desc0844,64BASEDECALCULODOIRF1.860,06\n37DSR Adicional20,0058,18491Seguro Vida Fun01,82BASEDECALCULODOFGTS2.460,70\n91Hr Adic Pericul220,00487,29499Vale Ref Func2379,35VALORDOFGTS196,85\n102Hr Ext Diu  60%7,47114,66511INSS Normal0221,46SALARIOLIQUIDONOMES1.005,83\n104Hr Ext Diu  80%7,02121,23561IRF Normal00,00VALORDOIRFARECOLHER0,00\n107Hr Ext Diu 100%2,8755,04613Smart 500 QC0155,66VALORDOIRFARECOLHER0,00\nTOT.RENDIMENTOS2.460,70684Vale Gas04,48VALORDOIRFARECOLHER0,00\n820Vale Transp Fun4297,46\nTOTALDESCONTOS1.454,87\nDocumento assinado eletronicamente por  em 21/03/2026, às 20:24:57 - 4fa38da\nFls.: 272"
+    },
+    {
+      "file": "payroll-02.pdf",
+      "error": "UnknownErrorException: bad XRef entry"
+    },
+    {
+      "file": "payroll-03.pdf",
+      "fileSizeBytes": 439651,
+      "pages": 5,
+      "textLength": 4185,
+      "lineCount": 124,
+      "scannedAnalysis": {
+        "verdict": "text_layer",
+        "hasFont": true,
+        "hasTextOps": true,
+        "hasImage": true,
+        "charsPerPage": 837,
+        "reason": []
+      },
+      "competenceHits": [],
+      "sectionMarkers": [
+        {
+          "keyword": "demonstrativo",
+          "index": 2
+        },
+        {
+          "keyword": "descrição",
+          "index": 309
+        },
+        {
+          "keyword": "proventos",
+          "index": 325
+        },
+        {
+          "keyword": "descontos",
+          "index": 334
+        },
+        {
+          "keyword": "fgts",
+          "index": 756
+        }
+      ],
+      "sampleHeaders": [
+        "Cod.DescriçãoUnidadeProventosDescontos",
+        "Cod.DescriçãoUnidadeProventosDescontos",
+        "Cod.DescriçãoUnidadeProventosDescontos",
+        "Cod.DescriçãoUnidadeProventosDescontos",
+        "Cod.DescriçãoUnidadeProventosDescontos"
+      ],
+      "sampleFieldLines": [],
+      "sampleBaseLines": [
+        "Dep.I.R.R.F.:0,00BaseFGTS:1.967,07",
+        "Dep.I.R.R.F.:0,00BaseFGTS:1.975,31",
+        "Dep.I.R.R.F.:0,00BaseFGTS:1.978,83",
+        "Dep.I.R.R.F.:0,00BaseFGTS:1.933,43",
+        "Dep.I.R.R.F.:0,00BaseFGTS:1.810,19"
+      ],
+      "allFieldCount": 0,
+      "allBaseCount": 5,
+      "textPreview": "\n\nDEMONSTRATIVODEPAGAMENTOMENSAL\nPeríodo:10/2019DataPagto:31.10.201906.12.202411:11:52Pág:1\nNo.Pessoal:Nome:\nAdmissão:09.04.2019Cargo:OPERADORMAQUINASIII\nCentroCusto:1396280ÁreaRH:B118SubáreaRH:0003\nSalárioBase:1.678,61Grupo:FSubgrupo:FX\nSalárioHora:7,63CTPSno.:Série:0122\nBanco/Agência:C/C:Ar.deFolha:SA\nCod.DescriçãoUnidadeProventosDescontos\n0105DiasTrabalhados30,001.678,61\n2007HorasExtras100%5,0076,30\n2027HorasExtras100%Noturna2,9247,40\n2040Ad.Noturno20%70,16107,06\n2100DSRsobreVariaveis26,77\n2102DSRsobreH.Extra30,93\n/314Contr.INSSRemuneração9,00177,03\n/B02Adiantamentopago671,44\n4039Conv.Odonto.(S.Franc.)10,99\nTotal1.967,07859,46\nLíqüido1.107,61\nBaseI.N.S.S.:1.967,07F.G.T.S.doMês:157,37\nBaseI.R.R.F.:1.790,04BaseI.R.R.F.13o.:\nDep.I.R.R.F.:0,00BaseFGTS:1.967,07\nAssinadoeletronicamentepor:-Juntadoem:09/12/202412:23:44-8036187\nFls.:230\n\nDEMONSTRATIVODEPAGAMENTOMENSAL\nPeríodo:11/2019DataPagto:29.11.201906.12.202411:12:35Pág:1\nNo.Pessoal:Nome:\nAdmissão:09.04.2019Cargo:OPERADORMAQUINASIII\nCentroCusto:1396280ÁreaRH:B118SubáreaRH:0003\nSalárioBase:1.678,61Grupo:FSubgrupo:FX\nSalárioHora:7,63CTPSno.:Série:0122\nBanco/Agência:C/C:Ar.deFolha:SA\nCod.DescriçãoUnidadeProventosDescontos\n0105DiasTrabalhados30,001.678,61\n2007HorasExtras100%5,0076,30\n2027HorasExtras100%Noturna3,1851,74\n2040Ad.Noturno20%72,89111,23\n2100DSRsobreVariaveis26,70\n2102DSRsobreH.Extra30,73\n/314Contr.INSSRemuneração9,00177,77\n/B02Adiantamentopago671,44\n4039Conv.Odonto.(S.Franc.)10,99\nTotal1.975,31860,20\nLíqüido1.115,11\nBas",
+      "textTail": "or:-Juntadoem:09/12/202412:23:44-131f04e\nFls.:236\n\nDEMONSTRATIVODEPAGAMENTOMENSAL\nPeríodo:02/2020DataPagto:28.02.202006.12.202411:17:38Pág:1\nNo.Pessoal:Nome:\nAdmissão:09.04.2019Cargo:OPERADORMAQUINASIII\nCentroCusto:1396280ÁreaRH:B118SubáreaRH:0003\nSalárioBase:1.678,61Grupo:FSubgrupo:FX\nSalárioHora:7,63CTPSno.:Série:0122\nBanco/Agência:C/C:Ar.deFolha:SA\nCod.DescriçãoUnidadeProventosDescontos\n0105DiasTrabalhados30,001.678,61\n2040Ad.Noturno20%72,32110,36\n2100DSRsobreVariaveis21,22\n/314Contr.INSSRemuneração8,00144,81\n/B02Adiantamentopago671,44\n4039Conv.Odonto.(S.Franc.)10,99\nTotal1.810,19827,24\nLíqüido982,95\nBaseI.N.S.S.:1.810,19F.G.T.S.doMês:144,82\nBaseI.R.R.F.:1.665,38BaseI.R.R.F.13o.:\nDep.I.R.R.F.:0,00BaseFGTS:1.810,19\nAssinadoeletronicamentepor:-Juntadoem:09/12/202412:23:44-131f04e\nFls.:238"
+    },
+    {
+      "file": "payroll-04.pdf",
+      "fileSizeBytes": 1489330,
+      "pages": 5,
+      "textLength": 430,
+      "lineCount": 10,
+      "scannedAnalysis": {
+        "verdict": "mixed_or_weak_text",
+        "hasFont": true,
+        "hasTextOps": true,
+        "hasImage": true,
+        "charsPerPage": 86,
+        "reason": [
+          "low chars/page with images"
+        ]
+      },
+      "competenceHits": [
+        {
+          "pattern": "MM/YYYY",
+          "match": "10/2022",
+          "groups": [
+            "10",
+            "2022"
+          ]
+        },
+        {
+          "pattern": "MM/YYYY",
+          "match": "10/2022",
+          "groups": [
+            "10",
+            "2022"
+          ]
+        },
+        {
+          "pattern": "MM/YYYY",
+          "match": "10/2022",
+          "groups": [
+            "10",
+            "2022"
+          ]
+        },
+        {
+          "pattern": "MM/YYYY",
+          "match": "10/2022",
+          "groups": [
+            "10",
+            "2022"
+          ]
+        },
+        {
+          "pattern": "MM/YYYY",
+          "match": "10/2022",
+          "groups": [
+            "10",
+            "2022"
+          ]
+        }
+      ],
+      "sectionMarkers": [],
+      "sampleHeaders": [],
+      "sampleFieldLines": [],
+      "sampleBaseLines": [],
+      "allFieldCount": 0,
+      "allBaseCount": 0,
+      "textPreview": "\n\nAssinado eletronicamente por:  - Juntado em: 20/10/2022 10:07:11 - 6ec939d\nFls.: 316\n\nAssinado eletronicamente por:  - Juntado em: 20/10/2022 10:07:11 - 6ec939d\nFls.: 317\n\nAssinado eletronicamente por:  - Juntado em: 20/10/2022 10:07:11 - 6ec939d\nFls.: 318\n\nAssinado eletronicamente por:  - Juntado em: 20/10/2022 10:07:11 - 6ec939d\nFls.: 319\n\nAssinado eletronicamente por:  - Juntado em: 20/10/2022 10:07:11 - 6ec939d\nFls.: 320",
+      "textTail": "\n\nAssinado eletronicamente por:  - Juntado em: 20/10/2022 10:07:11 - 6ec939d\nFls.: 316\n\nAssinado eletronicamente por:  - Juntado em: 20/10/2022 10:07:11 - 6ec939d\nFls.: 317\n\nAssinado eletronicamente por:  - Juntado em: 20/10/2022 10:07:11 - 6ec939d\nFls.: 318\n\nAssinado eletronicamente por:  - Juntado em: 20/10/2022 10:07:11 - 6ec939d\nFls.: 319\n\nAssinado eletronicamente por:  - Juntado em: 20/10/2022 10:07:11 - 6ec939d\nFls.: 320"
+    }
+  ]
+}

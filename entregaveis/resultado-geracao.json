@@ -1,0 +1,42 @@
+[
+  {
+    "file": "time-card-01.pdf",
+    "status": "concluido",
+    "pages": 5
+  },
+  {
+    "file": "time-card-02.pdf",
+    "status": "concluido",
+    "pages": 5
+  },
+  {
+    "file": "time-card-03.pdf",
+    "status": "concluido",
+    "pages": 5
+  },
+  {
+    "file": "time-card-04.pdf",
+    "status": "erro",
+    "erro": "Nenhum registro de cartão de ponto foi identificado neste layout de documento."
+  },
+  {
+    "file": "payroll-01.pdf",
+    "status": "concluido",
+    "pages": 24
+  },
+  {
+    "file": "payroll-02.pdf",
+    "status": "concluido",
+    "pages": 5
+  },
+  {
+    "file": "payroll-03.pdf",
+    "status": "concluido",
+    "pages": 5
+  },
+  {
+    "file": "payroll-04.pdf",
+    "status": "concluido",
+    "pages": 5
+  }
+]

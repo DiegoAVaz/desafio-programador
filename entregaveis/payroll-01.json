@@ -1,0 +1,3102 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "year": "2017",
+      "month": "04",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "30,67"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,40"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "0",
+          "value": "36,00"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "100,85"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "0",
+          "value": "58,18"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "1.260,65"
+        },
+        {
+          "label": "Base IR",
+          "value": "780,62"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "1.260,65"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "100,85"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.392,55"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "1.620,65"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "228,10"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "year": "2017",
+      "month": "05",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "46,00"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "756,39"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,40"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "266,00"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "8,48",
+          "value": "116,66"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "185,83"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "1,88",
+          "value": "29,13"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,25"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "0",
+          "value": "87,28"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.064,79"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.499,78"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.064,79"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "165,18"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "916,64"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.064,79"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.148,15"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "year": "2017",
+      "month": "06",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "46,00"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "756,39"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,40"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "60,00"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "11,37",
+          "value": "156,31"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "190,52"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "1,58",
+          "value": "24,49"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "215,10"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,25"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "287,28"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.116,97"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.547,27"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.116,97"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "169,35"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "755,03"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.116,97"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.361,94"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "year": "2017",
+      "month": "07",
+      "fields": [
+        {
+          "code": "207",
+          "label": "Hrs Atrasos",
+          "reference": "0,68",
+          "value": "35,87"
+        },
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "46,00"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "756,39"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,40"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "9,13",
+          "value": "125,60"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "163,00"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "0,83",
+          "value": "12,89"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "184,71"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "215,13"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,25"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "287,28"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.052,44"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.488,55"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.052,44"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "164,19"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "693,28"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.058,31"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.365,03"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "year": "2017",
+      "month": "08",
+      "fields": [
+        {
+          "code": "034",
+          "label": "DSR",
+          "reference": "7,33",
+          "value": "350,72"
+        },
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "46,00"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "756,39"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,51"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "0,40",
+          "value": "5,75"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "575,00"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "174,05"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "215,13"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,25"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "5",
+          "value": "91,30"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "1.933,99"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.380,76"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "1.933,99"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "154,71"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "569,36"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "1.984,71"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.415,35"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "year": "2017",
+      "month": "09",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "46,00"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "791,23"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,51"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "266,00"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "0,20",
+          "value": "2,88"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "178,33"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "208,47"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,25"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "691,30"
+        },
+        {
+          "code": "311",
+          "label": "Part Lucr Resul",
+          "reference": "0,00",
+          "value": "2.819,91"
+        },
+        {
+          "code": "313",
+          "label": "IRF Part Result",
+          "reference": "0",
+          "value": "0,00"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "1.981,53"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.424,02"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "1.981,53"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "158,52"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "593,44"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "2.819,91"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "1.981,53"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.819,91"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.388,09"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "year": "2017",
+      "month": "10",
+      "fields": [
+        {
+          "code": "207",
+          "label": "Hrs Atrasos",
+          "reference": "0,15",
+          "value": "1,39"
+        },
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "50,14"
+        },
+        {
+          "code": "314",
+          "label": "PLR Pago",
+          "reference": "",
+          "value": "02.819,91"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "791,23"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,58"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "163,00"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "0,93",
+          "value": "13,82"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "190,14"
+        },
+        {
+          "code": "311",
+          "label": "Part Lucr Resul",
+          "reference": "0,00",
+          "value": "2.819,91"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "208,47"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,25"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "694,04"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.112,76"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.543,44"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.112,76"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "169,02"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "759,63"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "4.984,78"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "4.225,15"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "year": "2017",
+      "month": "11",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "48,07"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "814,97"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,58"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "72,60"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "243,56"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "13,46"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "30,15",
+          "value": "446,75"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "208,47"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "5,30",
+          "value": "88,35"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,32"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "94,04"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.706,30"
+        },
+        {
+          "label": "Base IR",
+          "value": "2.083,56"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.706,30"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "216,50"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.294,23"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "3.560,30"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "2.266,07"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "13,46"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "year": "2017",
+      "month": "12",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "48,07"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "814,97"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,58"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "66,00"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "240,90"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "20,00",
+          "value": "296,34"
+        },
+        {
+          "code": "512",
+          "label": "INSS 13o. Sal",
+          "reference": "0",
+          "value": "155,60"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "10,40",
+          "value": "173,38"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "11,44"
+        },
+        {
+          "code": "124",
+          "label": "Hr Ext Not 80%",
+          "reference": "1,92",
+          "value": "31,96"
+        },
+        {
+          "code": "563",
+          "label": "IRF 13o. Sal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "154",
+          "label": "Hr Supl Ext Not",
+          "reference": "0,49",
+          "value": "3,51"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "208,47"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,32"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "94,04"
+        },
+        {
+          "code": "512",
+          "label": "INSS 13o. Sal",
+          "reference": "0",
+          "value": "149,65"
+        },
+        {
+          "code": "563",
+          "label": "IRF 13o. Sal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "512",
+          "label": "INSS 13o. Sal",
+          "reference": "0",
+          "value": "233,28"
+        },
+        {
+          "code": "563",
+          "label": "IRF 13o. Sal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "512",
+          "label": "INSS 13o. Sal",
+          "reference": "0",
+          "value": "251,13"
+        },
+        {
+          "code": "563",
+          "label": "IRF 13o. Sal",
+          "reference": "0",
+          "value": "33,42"
+        },
+        {
+          "code": "512",
+          "label": "INSS 13o. Sal",
+          "reference": "0",
+          "value": "341,85"
+        },
+        {
+          "code": "563",
+          "label": "IRF 13o. Sal",
+          "reference": "0",
+          "value": "82,89"
+        },
+        {
+          "code": "512",
+          "label": "INSS 13o. Sal",
+          "reference": "0",
+          "value": "349,11"
+        },
+        {
+          "code": "563",
+          "label": "IRF 13o. Sal",
+          "reference": "0",
+          "value": "97,78"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.676,68"
+        },
+        {
+          "label": "Base IR",
+          "value": "2.056,60"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.676,68"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "214,13"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.312,00"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "749,19"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.042,03"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.079,39"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.300,54"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.307,55"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.339,49"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.373,43"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.393,01"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "4.471,58"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "25.043,34"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "3.159,58"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "11,44"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "year": "2018",
+      "month": "01",
+      "fields": [
+        {
+          "code": "512",
+          "label": "INSS 13o. Sal",
+          "reference": "0",
+          "value": "347,46"
+        },
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "96,14"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "814,97"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,58"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "272,60"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "2,32",
+          "value": "34,32"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "187,07"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "208,47"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,32"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "494,04"
+        },
+        {
+          "code": "311",
+          "label": "Part Lucr Resul",
+          "reference": "0,00",
+          "value": "458,42"
+        },
+        {
+          "code": "313",
+          "label": "IRF Part Result",
+          "reference": "0",
+          "value": "0,00"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.078,61"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.512,36"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.078,61"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "166,28"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "598,42"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "458,42"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.078,61"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "458,42"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.480,19"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "year": "2018",
+      "month": "02",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "48,07"
+        },
+        {
+          "code": "314",
+          "label": "PLR Pago",
+          "reference": "0",
+          "value": "458,42"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "814,97"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,58"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "6,35",
+          "value": "94,09"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "66,00"
+        },
+        {
+          "code": "311",
+          "label": "Part Lucr Resul",
+          "reference": "0,00",
+          "value": "458,42"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "193,52"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "208,47"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,32"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "94,04"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.150,33"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.577,63"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.150,33"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "172,02"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "718,36"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.608,75"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.890,39"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "year": "2018",
+      "month": "03",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "48,07"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "814,97"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,58"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "169,30"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "216,38"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "10,13",
+          "value": "150,15"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "9,33",
+          "value": "155,60"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "208,47"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,32"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "294,04"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.404,33"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.808,77"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.404,33"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "192,34"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "979,20"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.437,33"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.458,13"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "year": "2018",
+      "month": "04",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "48,07"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "814,97"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,58"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "169,30"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "212,46"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "8,40",
+          "value": "124,47"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "8,05",
+          "value": "134,19"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "233,49"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,32"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "7",
+          "value": "94,04"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.360,75"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.769,11"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.360,75"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "188,86"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "914,52"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.393,75"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.479,23"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "year": "2018",
+      "month": "05",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "48,07"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "814,97"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,58"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "169,30"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "233,79"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "13,43",
+          "value": "199,06"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "14,95",
+          "value": "249,21"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "155,66"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,32"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "0",
+          "value": "94,03"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.597,76"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.984,79"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.597,76"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "207,82"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.274,04"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.696,76"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.422,72"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "year": "2018",
+      "month": "06",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "48,07"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "814,97"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,58"
+        },
+        {
+          "code": "492",
+          "label": "Multas",
+          "reference": "0",
+          "value": "104,13"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "66,00"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "249,65"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "22,20",
+          "value": "328,94"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "18,08"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "17,08",
+          "value": "284,79"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "155,66"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,32"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "94,04"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.773,90"
+        },
+        {
+          "label": "Base IR",
+          "value": "2.145,07"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.773,90"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "221,91"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.314,23"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.871,73"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.557,50"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "18,08"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "year": "2018",
+      "month": "07",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "48,07"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "814,97"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "2,58"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "169,30"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "322,34"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "18,72",
+          "value": "277,34"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "24,36"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "26,00",
+          "value": "433,42"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "155,66"
+        },
+        {
+          "code": "122",
+          "label": "Hr Ext Not  60%",
+          "reference": "0,18",
+          "value": "2,71"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,32"
+        },
+        {
+          "code": "154",
+          "label": "Hr Supl Ext Not",
+          "reference": "0,04",
+          "value": "0,30"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "294,04"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.930,38"
+        },
+        {
+          "label": "Base IR",
+          "value": "2.228,86"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.930,38"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "234,43"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.394,74"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.930,38"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.535,64"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "24,36"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "year": "2018",
+      "month": "08",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "48,07"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "814,97"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "1,76"
+        },
+        {
+          "code": "492",
+          "label": "Multas",
+          "reference": "0",
+          "value": "104,13"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "375,90"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "15,15",
+          "value": "224,50"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "236,77"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "17,38",
+          "value": "289,77"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "155,66"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,32"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "8",
+          "value": "694,04"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.630,79"
+        },
+        {
+          "label": "Base IR",
+          "value": "2.014,84"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.630,79"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "210,46"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.392,17"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.927,79"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.535,62"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "year": "2018",
+      "month": "09",
+      "fields": [
+        {
+          "code": "237",
+          "label": "Ferias Recebida",
+          "reference": "",
+          "value": "03.525,03"
+        },
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "48,07"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "1,76"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "349,01"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "5,83",
+          "value": "86,43"
+        },
+        {
+          "code": "564",
+          "label": "IRF Recol Fer",
+          "reference": "0",
+          "value": "32,79"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "3,65",
+          "value": "60,85"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "155,66"
+        },
+        {
+          "code": "221",
+          "label": "Fer Normais",
+          "reference": "28,00",
+          "value": "1.901,60"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,32"
+        },
+        {
+          "code": "222",
+          "label": "Médias Férias",
+          "reference": "0,00",
+          "value": "238,08"
+        },
+        {
+          "code": "227",
+          "label": "Fer 1/",
+          "reference": "30,00",
+          "value": "713,23"
+        },
+        {
+          "code": "311",
+          "label": "Part Lucr Resul",
+          "reference": "12,00",
+          "value": "3.878,54"
+        },
+        {
+          "code": "313",
+          "label": "IRF Part Result",
+          "reference": "0",
+          "value": "0,00"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "3.172,85"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "319,94"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "25,59"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "74,93"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "3.878,54"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "4.191,57"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "3.878,54"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "4.116,64"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "32,79"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "year": "2018",
+      "month": "10",
+      "fields": [
+        {
+          "code": "237",
+          "label": "Ferias Recebida",
+          "reference": "0",
+          "value": "181,36"
+        },
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "48,07"
+        },
+        {
+          "code": "314",
+          "label": "PLR Pago",
+          "reference": "",
+          "value": "03.878,54"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "762,39"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "1,82"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "66,00"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "228,93"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "155,66"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "5,97",
+          "value": "91,64"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,48"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "7,35",
+          "value": "126,98"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "90,96"
+        },
+        {
+          "code": "221",
+          "label": "Fer Normais",
+          "reference": "2,00",
+          "value": "135,83"
+        },
+        {
+          "code": "222",
+          "label": "Médias Férias",
+          "reference": "0,00",
+          "value": "17,01"
+        },
+        {
+          "code": "227",
+          "label": "Fer 1/",
+          "reference": "30,00",
+          "value": "50,94"
+        },
+        {
+          "code": "311",
+          "label": "Part Lucr Resul",
+          "reference": "0,00",
+          "value": "3.878,54"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.543,74"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.659,10"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.244,79"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "179,58"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.037,07"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "6.455,28"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "5.418,21"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "year": "2018",
+      "month": "11",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "53,86"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "844,64"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "1,82"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "72,30"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "229,13"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "11,13",
+          "value": "170,99"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "10,22",
+          "value": "176,50"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "155,66"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,48"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "97,46"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.545,95"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.937,64"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.545,95"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "203,67"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.116,60"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.873,95"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.757,35"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "year": "2018",
+      "month": "12",
+      "fields": [
+        {
+          "code": "207",
+          "label": "Hrs Atrasos",
+          "reference": "0,16",
+          "value": "71,60"
+        },
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "100,00"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "844,64"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "11,23",
+          "value": "172,51"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "1,82"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "11,75",
+          "value": "203,00"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "275,90"
+        },
+        {
+          "code": "122",
+          "label": "Hr Ext Not  60%",
+          "reference": "0,10",
+          "value": "1,54"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "232,37"
+        },
+        {
+          "code": "154",
+          "label": "Hr Supl Ext Not",
+          "reference": "0,02",
+          "value": "0,17"
+        },
+        {
+          "code": "512",
+          "label": "INSS 13o. Sal",
+          "reference": "0",
+          "value": "237,67"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "563",
+          "label": "IRF 13o. Sal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "155,66"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,48"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "97,46"
+        },
+        {
+          "code": "512",
+          "label": "INSS 13o. Sal",
+          "reference": "0",
+          "value": "149,65"
+        },
+        {
+          "code": "563",
+          "label": "IRF 13o. Sal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "512",
+          "label": "INSS 13o. Sal",
+          "reference": "0",
+          "value": "233,28"
+        },
+        {
+          "code": "563",
+          "label": "IRF 13o. Sal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "512",
+          "label": "INSS 13o. Sal",
+          "reference": "0",
+          "value": "251,13"
+        },
+        {
+          "code": "563",
+          "label": "IRF 13o. Sal",
+          "reference": "0",
+          "value": "33,42"
+        },
+        {
+          "code": "512",
+          "label": "INSS 13o. Sal",
+          "reference": "0",
+          "value": "341,85"
+        },
+        {
+          "code": "563",
+          "label": "IRF 13o. Sal",
+          "reference": "0",
+          "value": "82,89"
+        },
+        {
+          "code": "512",
+          "label": "INSS 13o. Sal",
+          "reference": "0",
+          "value": "349,11"
+        },
+        {
+          "code": "563",
+          "label": "IRF 13o. Sal",
+          "reference": "0",
+          "value": "97,78"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.581,94"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.970,39"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.581,94"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "206,55"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.113,99"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "749,19"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.042,03"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.079,39"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.300,54"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.307,55"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.339,49"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.373,43"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.393,01"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "5.224,34"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "25.043,34"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "4.110,35"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "year": "2019",
+      "month": "01",
+      "fields": [
+        {
+          "code": "512",
+          "label": "INSS 13o. Sal",
+          "reference": "0",
+          "value": "347,46"
+        },
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "50,00"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "844,64"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "1,82"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "586,25"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "208,12"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "6,48",
+          "value": "99,56"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "3,73",
+          "value": "64,51"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "155,66"
+        },
+        {
+          "code": "122",
+          "label": "Hr Ext Not  60%",
+          "reference": "0,17",
+          "value": "2,56"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,48"
+        },
+        {
+          "code": "154",
+          "label": "Hr Supl Ext Not",
+          "reference": "0,04",
+          "value": "0,28"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "497,46"
+        },
+        {
+          "code": "311",
+          "label": "Part Lucr Resul",
+          "reference": "12,00",
+          "value": "633,48"
+        },
+        {
+          "code": "313",
+          "label": "IRF Part Result",
+          "reference": "0",
+          "value": "0,00"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.312,55"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.725,25"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.312,55"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "185,00"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "864,12"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "633,48"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.312,55"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "633,48"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.448,43"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "year": "2019",
+      "month": "02",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "50,00"
+        },
+        {
+          "code": "314",
+          "label": "PLR Pago",
+          "reference": "0",
+          "value": "633,48"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "844,64"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "1,82"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "7,83",
+          "value": "120,31"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "1",
+          "value": "965,55"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "7,27",
+          "value": "125,55"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "216,59"
+        },
+        {
+          "code": "311",
+          "label": "Part Lucr Resul",
+          "reference": "0,00",
+          "value": "633,48"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "155,66"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,48"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "3",
+          "value": "897,46"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.406,62"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.810,85"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.406,62"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "192,52"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "970,42"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "3.040,10"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "2.069,68"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "year": "2019",
+      "month": "03",
+      "fields": [
+        {
+          "code": "290",
+          "label": "VA Funcionario",
+          "reference": "0",
+          "value": "50,00"
+        },
+        {
+          "code": "404",
+          "label": "Adt Norm Desc",
+          "reference": "0",
+          "value": "844,64"
+        },
+        {
+          "code": "491",
+          "label": "Seguro Vida Fun",
+          "reference": "0",
+          "value": "1,82"
+        },
+        {
+          "code": "499",
+          "label": "Vale Ref Func",
+          "reference": "2",
+          "value": "379,35"
+        },
+        {
+          "code": "102",
+          "label": "Hr Ext Diu  60%",
+          "reference": "7,47",
+          "value": "114,66"
+        },
+        {
+          "code": "511",
+          "label": "INSS Normal",
+          "reference": "0",
+          "value": "221,46"
+        },
+        {
+          "code": "104",
+          "label": "Hr Ext Diu  80%",
+          "reference": "7,02",
+          "value": "121,23"
+        },
+        {
+          "code": "561",
+          "label": "IRF Normal",
+          "reference": "0",
+          "value": "0,00"
+        },
+        {
+          "code": "107",
+          "label": "Hr Ext Diu 100%",
+          "reference": "2,87",
+          "value": "55,04"
+        },
+        {
+          "code": "613",
+          "label": "Smart 500 QC",
+          "reference": "0",
+          "value": "155,66"
+        },
+        {
+          "code": "684",
+          "label": "Vale Gas",
+          "reference": "0",
+          "value": "4,48"
+        },
+        {
+          "code": "820",
+          "label": "Vale Transp Fun",
+          "reference": "4",
+          "value": "297,46"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Base INSS",
+          "value": "2.460,70"
+        },
+        {
+          "label": "Base IR",
+          "value": "1.860,06"
+        },
+        {
+          "label": "Base FGTS",
+          "value": "2.460,70"
+        },
+        {
+          "label": "Valor FGTS",
+          "value": "196,85"
+        },
+        {
+          "label": "Valor Líquido",
+          "value": "1.005,83"
+        },
+        {
+          "label": "Total Vencimentos",
+          "value": "2.460,70"
+        },
+        {
+          "label": "Total Descontos",
+          "value": "1.454,87"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        },
+        {
+          "label": "Valor IRF a Recolher",
+          "value": "0,00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "year": "2018",
+      "month": "08",
+      "fields": [
+        {
+          "code": "010",
+          "label": "VENCIMENTO PADRAO-VP",
+          "reference": "",
+          "value": "3.059,94"
+        },
+        {
+          "code": "011",
+          "label": "ADICIONAL POR MERITO",
+          "reference": "",
+          "value": "602,14"
+        },
+        {
+          "code": "191",
+          "label": "ABF-ADIC.BASICO DE FUNCAO",
+          "reference": "",
+          "value": "1.896,19"
+        },
+        {
+          "code": "192",
+          "label": "ATFC-AD.TEMP.FATORES/COMI",
+          "reference": "",
+          "value": "630,36"
+        },
+        {
+          "code": "058",
+          "label": "HORA EXTRA-BCO HORAS-CONV     JULHO/18",
+          "reference": "",
+          "value": "-12,89"
+        },
+        {
+          "code": "765",
+          "label": "CASSI-PARTICIPACOES",
+          "reference": "",
+          "value": "-67,72"
+        },
+        {
+          "code": "766",
+          "label": "CASSI CO-PARTICIPACAO",
+          "reference": "",
+          "value": "-0,54"
+        },
+        {
+          "code": "803",
+          "label": "PREVI PESSOAL PB2 AC.SIST/0718",
+          "reference": "",
+          "value": "0,90"
+        },
+        {
+          "code": "807",
+          "label": "PREVI PES.MENSAL PB2-2B     JULHO/18",
+          "reference": "",
+          "value": "0,12"
+        },
+        {
+          "code": "821",
+          "label": "CONTR. TEMPORARIA - CASSI     JULHO/18",
+          "reference": "",
+          "value": "0,12"
+        },
+        {
+          "code": "822",
+          "label": "CASSI PESSOAL     JULHO/18",
+          "reference": "",
+          "value": "0,38"
+        },
+        {
+          "code": "875",
+          "label": "IMPOSTO DE RENDA-FONTE        11,87",
+          "reference": "",
+          "value": "3,26"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Margem (30%)",
+          "value": "1,11"
+        },
+        {
+          "label": "Proventos Líquidos",
+          "value": "-1,04"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "year": "2018",
+      "month": "09",
+      "fields": [
+        {
+          "code": "010",
+          "label": "VENCIMENTO PADRAO-VP",
+          "reference": "",
+          "value": "3.212,93"
+        },
+        {
+          "code": "011",
+          "label": "ADICIONAL POR MERITO",
+          "reference": "",
+          "value": "632,24"
+        },
+        {
+          "code": "191",
+          "label": "ABF-ADIC.BASICO DE FUNCAO",
+          "reference": "",
+          "value": "1.990,99"
+        },
+        {
+          "code": "192",
+          "label": "ATFC-AD.TEMP.FATORES/COMI",
+          "reference": "",
+          "value": "661,87"
+        },
+        {
+          "code": "058",
+          "label": "HORA EXTRA-BCO HORAS-CONV    AGOSTO/18",
+          "reference": "",
+          "value": "-16,24"
+        },
+        {
+          "code": "565",
+          "label": "CASSI-ASSISTENCIA FARMACE",
+          "reference": "",
+          "value": "-2,44"
+        },
+        {
+          "code": "745",
+          "label": "CONTRIBUICAO NEGOCIAL",
+          "reference": "",
+          "value": "-97,47"
+        },
+        {
+          "code": "745",
+          "label": "CONTRIBUICAO NEGOCIAL",
+          "reference": "",
+          "value": "-76,12"
+        },
+        {
+          "code": "765",
+          "label": "CASSI-PARTICIPACOES",
+          "reference": "",
+          "value": "-81,13"
+        },
+        {
+          "code": "766",
+          "label": "CASSI CO-PARTICIPACAO",
+          "reference": "",
+          "value": "-57,91"
+        },
+        {
+          "code": "803",
+          "label": "PREVI PESSOAL PB2 AC.SIST/0818",
+          "reference": "",
+          "value": "1,14"
+        },
+        {
+          "code": "807",
+          "label": "PREVI PES.MENSAL PB2-2B    AGOSTO/18",
+          "reference": "",
+          "value": "0,16"
+        },
+        {
+          "code": "821",
+          "label": "CONTR. TEMPORARIA - CASSI    AGOSTO/18",
+          "reference": "",
+          "value": "0,16"
+        },
+        {
+          "code": "822",
+          "label": "CASSI PESSOAL    AGOSTO/18",
+          "reference": "",
+          "value": "0,48"
+        },
+        {
+          "code": "875",
+          "label": "IMPOSTO DE RENDA-FONTE        14,94",
+          "reference": "",
+          "value": "4,11"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Margem (30%)",
+          "value": "1,16"
+        },
+        {
+          "label": "Proventos Líquidos",
+          "value": "-1,30"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "year": "2018",
+      "month": "10",
+      "fields": [
+        {
+          "code": "010",
+          "label": "VENCIMENTO PADRAO-VP",
+          "reference": "",
+          "value": "428,59"
+        },
+        {
+          "code": "011",
+          "label": "ADICIONAL POR MERITO",
+          "reference": "",
+          "value": "84,42"
+        },
+        {
+          "code": "191",
+          "label": "ABF-ADIC.BASICO DE FUNCAO",
+          "reference": "",
+          "value": "265,63"
+        },
+        {
+          "code": "192",
+          "label": "ATFC-AD.TEMP.FATORES/COMI",
+          "reference": "",
+          "value": "88,31"
+        },
+        {
+          "code": "237",
+          "label": "ADICIONAL DE FERIAS",
+          "reference": "",
+          "value": "1.877,01"
+        },
+        {
+          "code": "279",
+          "label": "PROVENTOS FERIAS",
+          "reference": "",
+          "value": "5.631,08"
+        },
+        {
+          "code": "230",
+          "label": "FERIAS-CONVERSAO ESPECIE",
+          "reference": "",
+          "value": "1.155,21"
+        },
+        {
+          "code": "513",
+          "label": "ANTECIPACAO ADIC. FERIAS",
+          "reference": "",
+          "value": "-1.877,21"
+        },
+        {
+          "code": "515",
+          "label": "ANTEC. DE PROVENTOS - FER",
+          "reference": "",
+          "value": "-5.631,63"
+        },
+        {
+          "code": "517",
+          "label": "ANTEC.CONVERS-FER/LP/AB/F",
+          "reference": "",
+          "value": "-1.155,21"
+        },
+        {
+          "code": "765",
+          "label": "CASSI-PARTICIPACOES",
+          "reference": "",
+          "value": "-49,82"
+        },
+        {
+          "code": "766",
+          "label": "CASSI CO-PARTICIPACAO",
+          "reference": "",
+          "value": "-25,46"
+        },
+        {
+          "code": "798",
+          "label": "OUTROS DESCONTOS FERIAS",
+          "reference": "",
+          "value": "300,35"
+        },
+        {
+          "code": "839",
+          "label": "INSS FERIAS",
+          "reference": "",
+          "value": "621,04"
+        },
+        {
+          "code": "899",
+          "label": "PREVIDENCIA COMPL. FERIAS",
+          "reference": "",
+          "value": "600,70"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Margem (30%)",
+          "value": "860,67"
+        },
+        {
+          "label": "Proventos Líquidos",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "year": "2018",
+      "month": "11",
+      "fields": [
+        {
+          "code": "010",
+          "label": "VENCIMENTO PADRAO-VP",
+          "reference": "",
+          "value": "3.212,93"
+        },
+        {
+          "code": "011",
+          "label": "ADICIONAL POR MERITO",
+          "reference": "",
+          "value": "632,24"
+        },
+        {
+          "code": "110",
+          "label": "GRATIF. NATAL-ADIANT.",
+          "reference": "",
+          "value": "-3.094,31"
+        },
+        {
+          "code": "120",
+          "label": "GRATIFICACAO DE NATAL",
+          "reference": "",
+          "value": "6.498,03"
+        },
+        {
+          "code": "191",
+          "label": "ABF-ADIC.BASICO DE FUNCAO",
+          "reference": "",
+          "value": "1.990,99"
+        },
+        {
+          "code": "192",
+          "label": "ATFC-AD.TEMP.FATORES/COMI",
+          "reference": "",
+          "value": "661,87"
+        },
+        {
+          "code": "765",
+          "label": "CASSI-PARTICIPACOES",
+          "reference": "",
+          "value": "-75,58"
+        },
+        {
+          "code": "766",
+          "label": "CASSI CO-PARTICIPACAO",
+          "reference": "",
+          "value": "-2,58"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Margem (30%)",
+          "value": "1,16"
+        },
+        {
+          "label": "Proventos Líquidos",
+          "value": "0,00"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "year": "2018",
+      "month": "12",
+      "fields": [
+        {
+          "code": "010",
+          "label": "VENCIMENTO PADRAO-VP",
+          "reference": "",
+          "value": "3.212,93"
+        },
+        {
+          "code": "011",
+          "label": "ADICIONAL POR MERITO",
+          "reference": "",
+          "value": "632,24"
+        },
+        {
+          "code": "191",
+          "label": "ABF-ADIC.BASICO DE FUNCAO",
+          "reference": "",
+          "value": "1.990,99"
+        },
+        {
+          "code": "192",
+          "label": "ATFC-AD.TEMP.FATORES/COMI",
+          "reference": "",
+          "value": "661,87"
+        },
+        {
+          "code": "765",
+          "label": "CASSI-PARTICIPACOES",
+          "reference": "",
+          "value": "-88,72"
+        },
+        {
+          "code": "766",
+          "label": "CASSI CO-PARTICIPACAO",
+          "reference": "",
+          "value": "-3,06"
+        },
+        {
+          "code": "875",
+          "label": "IMPOSTO DE RENDA-FONTE  SETEMBRO/18",
+          "reference": "",
+          "value": "-14,98"
+        },
+        {
+          "code": "875",
+          "label": "IMPOSTO DE RENDA-FONTE S/FERIAS",
+          "reference": "",
+          "value": "14,98"
+        }
+      ],
+      "bases": [
+        {
+          "label": "Margem (30%)",
+          "value": "1,16"
+        },
+        {
+          "label": "Proventos Líquidos",
+          "value": "0,00"
+        }
+      ]
+    }
+  ]
+}
