@@ -1,6 +1,10 @@
 server {
   listen 80;
   server_name _;
+  # O limite final é aplicado pelo multer no backend (10 MiB). A margem aqui
+  # cobre somente o envelope multipart do upload e evita o 413 padrão de 1 MiB
+  # do Nginx antes que a API possa validar o arquivo.
+  client_max_body_size 11m;
 
   root /usr/share/nginx/html;
   index index.html;
