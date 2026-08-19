@@ -31,8 +31,39 @@ Layouts de baixa qualidade ou manuscritos podem exigir OCR mais especializado ou
 
 ## Revisão do autor antes da entrega
 
-Preencha antes de enviar:
+### Minha participação
 
-- Quais trechos você revisou ou reescreveu manualmente, e por quê.
-- Quais decisões foram suas e quais foram propostas pelo assistente.
-- Qual plataforma usou para publicar e a URL pública resultante.
+Utilizei na maior parte do tempo o Codex neste projeto. Antes disto, ao analisar a primeira versão do backend que fiz no Cursor, identifiquei que a implementação dele colocava muitas responsabilidades nas rotas: regra de negócio e controle http estavam misturados. Propus a reorganização em mais camadas, como controller, useCase e repository. Posteriormente sugeri também fatory e o contrato (interface) entre a camada do use case e o repository. Mas implementação da mudança foi realizada com auxílio do Codex; eu não reescrevi manualmente esses trechos.
+
+Tbm realizei manualmente as validações:
+- instalei e configurei o Docker Desktop (como há tempos não utilizava Docker, pedi ajuda para o Codex me guiar na configuração);
+- validei o compose up build localmente;
+- confirmei o endpoint healthz (Docker);
+- abri e testei os fluxos de cartão de ponto e holerite no ambiente Docker;
+- criei e configurei os dois serviços no Render;
+- validei a aplicação publicada, uploads, downloads, etc
+
+### Decisões minhas
+
+- Solicitar a reorganização do backend em arquitetura em camadas.
+- Priorizar uma solução que não inventasse dados quando o OCR ou o layout não fornecessem evidência suficiente.
+- Exigir testes além do fluxo do normal, limites de upload, contratos HTTP, exportação, persistencia, etc
+- Escolher o Render para publicação após avaliar alternativas
+- Manter a aplicação publicada em duas partes: frontend e backend.
+
+### Decisões propostas e implementadas com o assistente
+
+- Fila assíncrona em memória, com resposta `202` e polling, para não prender a requisição durante OCR.
+- Parsers separados por tipo/layout de documento, com OCR de fallback.
+- Middleware global para erros de upload, retornando JSON e os status `400`, `413` ou `500`.
+- Migração da exportação XLSX para ExcelJS, para persistir estilos de cabeçalho e destaques no arquivo baixado.
+- Testes automatizados com Vitest e Supertest para parsers, API e exportações.
+- Separação de frontend e backend no Docker Compose.
+- Proxy Nginx para o frontend chamar a API pelo caminho relativo `/api`.
+- Correção da configuração HTTPS/SNI do proxy Nginx para permitir a comunicação entre os dois serviços do Render.
+
+### Publicação
+
+- Plataforma usada: Render
+- Aplicação pública: https://quick-filler-desafio-web-diegoalves.onrender.com/
+- Backend: https://quick-filler-desafio-diegoalves.onrender.com/healthz
