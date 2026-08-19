@@ -1,3 +1,13 @@
+---
+title: Quick Filler
+emoji: 📄
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+short_description: Transcrição revisável de cartões de ponto e holerites.
+---
+
 # Desafio Técnico — Quick Filler
 
 ## Contexto
